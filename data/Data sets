@@ -1,0 +1,16 @@
+| Dataset/Resource Description                                      | URL                                                                                                   |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Babies Birth Weight Dataset (Kaggle)                              | [Link](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight)                                |
+| Fetal Health Classification Dataset (Kaggle)                      | [Link](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)                            |
+| UNICEF Country Data for India                                     | [Link](https://data.unicef.org/country/ind/)                                                           |
+| UNICEF Global Data Explorer for India                              | [Link](https://data.unicef.org/resources/data_explorer/unicef_f/?ag=UNICEF&df=GLOBAL_DATAFLOW&ver=1.0&dq=IND.CME_TMY0T4.&startPeriod=1970&endPeriod=2023) |
+| World Bank Maternal Mortality Rate Indicator                       | [Link](https://data.worldbank.org/indicator/SH.STA.MMRT?end=2017&start=2000&view=chart)              |
+| Maternal Health Risk Data (Kaggle)                                | [Link](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)                                |
+| Our World in Data - Maternal Mortality                            | [Link](https://ourworldindata.org/maternal-mortality)                                                |
+| Percentage Women Complication Pregnancy/Delivery Data (India)      | [Link](https://data.gov.in/files/ogdpv2dms/s3fs-public/Percentage_Women_complication_Pregnancy_delivery_post-delivery_vaginal_discharge_menstrual_DLHS4.csv) |
+| Pregnancy-Associated Mortality Data (New York City)                | [Link](https://data.cityofnewyork.us/Health/Pregnancy-Associated-Mortality/27x4-cbi6/explore/query/SELECT%0A%20%20%60year%60%2C%0A%20%20%60related%60%2C%0A%20%20%60underlying_cause%60%2C%0A%20%20%60race_ethnicity%60%2C%0A%20%20%60borough%60%2C%0A%20%20%60deaths%60/page/filter) |
+| CDC Wonder - Pregnancy Data (United States)                       | [Link](https://wonder.cdc.gov/controller/datarequest/D159)                                          |
+| Reproductive Child Healthcare Classification Dataset (Kaggle)     | [Link](https://www.kaggle.com/datasets/gauravduttakiit/reproductive-childhealthcare-classification) |
+| UNICEF Healthy Mothers, Healthy Babies Resource                    | [Link](https://data.unicef.org/resources/healthy-mothers-healthy-babies/)                             |
+| Smoking During Pregnancy Statistics (England)                     | [Link](https://www.statista.com/statistics/445149/smoking-during-pregnant-in-england/)                 |
+| Zenodo - Reproductive Healthcare Data                             | [Link](https://zenodo.org/record/3904280)                                                             |
