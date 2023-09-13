@@ -6,9 +6,9 @@
 - [Dataset](#dataset)
 - [Data pre-processing]()
 - [Installation](#installation)
-- [Usage](usage)
-- [Models](#models)
-- [Results](results)
+- [Usage]()
+- [Models]()
+- [Results](#results)
 
 
 ## Introduction
@@ -30,6 +30,9 @@ The main objectives of this project are as follows:
 
 - Predict pregnancy outcomes (e.g., complications) using machine learning and deep learning techniques.
 - Predict the mode of delivery (vaginal or cesarean section) for pregnant patients.
+- Predicting the Approx. date of delivery
+- Predicting the childbirth weight
+- Predicting preeclampsia
 
 We believe that Maternity Care Modeling has the potential to make a significant positive impact on the lives of expectant parents and their children.
 
@@ -56,30 +59,60 @@ Data Description including information such as the data source, size, and a brie
 | Zenodo - Reproductive Healthcare Data                             | [Link](https://zenodo.org/record/3904280)                                                             |
 
 
-## Models
+## Data Preprocessing
 
-List and briefly describe the machine learning and deep learning models you used in your project. Include any special considerations or hyperparameters. For example:
+- Feature Engineering: Identifying the relevant features and extracting relevant features from the dataset that might contribute to better predictions.
+- Data Splitting: Splitting the dataset into training, validation, and test sets is crucial for evaluating the model's performance.
+- Normalization/Scaling: Normalizing and scaling the numerical features to ensure that they have the same range.
 
-- Logistic Regression
-- Convolutional Neural Network (CNN)
+
+## Models Selection and Architecture
+
+List and briefly describe the machine learning and deep learning models you used in your project. Include any special considerations or hyperparameters.
+
+- Logistic Regression/Random Forest
+- Regression Models 
+- Neural Networks (CNN or RNN)
 - Predictive Modeling
 
+*Model Architecture:*
+
+The architecture of the model including the number of layers, activation functions, etc..
+
+## Model Training 
+
+- Training separate models for each prediction task :
+  - pregnancy outcomes
+  - mode of delivery
+  - approx. date of delivery
+  - preeclampsia
+  - childbirth weight
+
+*Optimizing the hyperparameters using the validation set*
+
+- Ensemble Methods
+  - Stacking
+  - Bagging
+
+*Used to combine predictions from multiple models for improved accuracy*
 
 ## Installation
 
-Provide instructions on how to set up the project locally. Include any dependencies or libraries that need to be installed. For example:
+Instructions on how to set up the project locally. Including any dependencies or libraries that need to be installed. 
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Results
+## Results 
+
+- Evaluation Metrics Performance
+  - Accuracy, Precision, Recall, F1-score, MAE, MSE 
+- Interpretability 
+  - SHAP values, feature importance scores, and gradient-based methods to interpret model predictions, especially for healthcare applications where interpretability is crucial.
 
 
-
-
-
-
+## Deployment
 
 
 
@@ -89,4 +122,6 @@ pip install -r requirements.txt
 We would like to thank the following contributors for their valuable contributions to this project:
 
 
+
+## Ethical Considerations 
 
