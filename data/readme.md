@@ -1,3 +1,13 @@
+# Data Collection and Data Pre-Processing
+
+- Dataset collection and gathering -> dataset including historical pregnancy and childbirth data with relevant features such as maternal health records, prenatal test results, demographic information, and ultrasound data, etc..
+- Labeling data -> annotate the dataset with labels
+- Data Quality Check
+
+
+
+### Dataset Resources 
+
 | Dataset/Resource Description                                      | URL                                                                                                   |
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Babies Birth Weight Dataset (Kaggle)                              | [Link](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight)                                |
