@@ -34,7 +34,14 @@
 
 ## Dataset Used For our Study
 
-- Child birth weight
+- Childbirth weight
+  - [Link]()
   - [Link]()
 - Preeclampsia
-  - 
+  - [Link]()
+- Approx. date of delivery
+  - [Link]()
+- Mode of Delivery
+  - [Link]()
+- Pregnancy Outcomes
+  - [Link]()  
