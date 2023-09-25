@@ -122,6 +122,9 @@ pip install -r requirements.txt
 We would like to thank the following contributors for their valuable contributions to this project:
 
 
+<p align="center">
+Made with :heart: by OrbiGenAI Innovations Lab <br>
+Copyright | @orbigenai
+</p>
 
-## Ethical Considerations 
 
