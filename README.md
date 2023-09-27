@@ -126,7 +126,7 @@ We would like to thank the following contributors for their valuable contributio
 
 <p align="center">
 Made with :heart: by OrbiGenAI Innovations Lab <br>
-Copyright | @orbigenai
+Copyright | @orbigenai All Rights Reserved
 </p>
 
 
