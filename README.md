@@ -74,10 +74,12 @@ List and briefly describe the machine learning and deep learning models you used
 - Regression Models 
 - Neural Networks (CNN or RNN)
 - Predictive Modeling
-
+- 
+<!---
 *Model Architecture:*
 
 The architecture of the model including the number of layers, activation functions, etc..
+--->
 
 ## Model Training 
 
@@ -111,7 +113,7 @@ pip install -r requirements.txt
 - Interpretability 
   - SHAP values, feature importance scores, and gradient-based methods to interpret model predictions, especially for healthcare applications where interpretability is crucial.
 
-
+<!---
 ## Deployment
 
 
@@ -120,7 +122,7 @@ pip install -r requirements.txt
 ## Contributors
 
 We would like to thank the following contributors for their valuable contributions to this project:
-
+--> 
 ## Ethical Considerations
 
 
