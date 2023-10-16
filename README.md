@@ -9,7 +9,9 @@
 - [Usage]()
 - [Models]()
 - [Results](#results)
-
+- [Model Interpretation]()
+- [Ethical Considerations]()
+- [Acknowledgements]()
 
 ## Introduction
 
@@ -70,11 +72,17 @@ Data Description including information such as the data source, size, and a brie
 
 List and briefly describe the machine learning and deep learning models you used in your project. Include any special considerations or hyperparameters.
 
-- Logistic Regression/Random Forest
+- Logistic Regression/Random Forest/SVM
 - Regression Models 
 - Neural Networks (CNN or RNN)
 - Predictive Modeling
-- 
+
+## Model Workflow
+
+
+
+
+  
 <!---
 *Model Architecture:*
 
@@ -113,6 +121,8 @@ pip install -r requirements.txt
 - Interpretability 
   - SHAP values, feature importance scores, and gradient-based methods to interpret model predictions, especially for healthcare applications where interpretability is crucial.
 
+
+## Model Interpretation
 <!---
 ## Deployment
 
@@ -124,6 +134,13 @@ pip install -r requirements.txt
 We would like to thank the following contributors for their valuable contributions to this project:
 --> 
 ## Ethical Considerations
+
+
+
+
+
+
+## Acknowledgements
 
 
 <p align="center">
