@@ -1,5 +1,3 @@
-# Maternity Care Modeling: Predicting Pregnancy Outcome and Mode of Delivery
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Objective](#objective)
